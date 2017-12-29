@@ -1,0 +1,80 @@
+    1  git -version
+    2  git --version
+    3  git config --list
+    4  gitconfig --list
+    5  mkdir workspace1
+    6  ls
+    7  pwd
+    8  cd ~
+    9  pwd
+   10  mkdir workspace1
+   11  cd workspace1
+   12  ls
+   13  git clone https://github.com/manishapodili/MY-CR.git
+   14  git config --global manisha
+   15  git config --global username manisha
+   16  git config --global username.manisha
+   17  git config --global user.name "manisha"
+   18  git config --global user.email "manishapodili@gmail.com"
+   19  git config --global push.default simple
+   20  git clone https://github.com/manishapodili/MY-CR.git
+   21  git config --global --unset http.proxy
+   22  git clone https://github.com/manishapodili/MY-CR.git
+   23  git pull https://github.com/manishapodili/MY-CR.git
+   24  pwd
+   25  cd /home/manisha
+   26  pwd
+   27  clear
+   28  ls
+   29  which git
+   30   ls
+   31  mkdir 
+   32  mkdir mystuff
+   33  mkdir mystuff/pictures
+   34  mkdir mystuff/pictures/..
+   35  cp image
+   36  clear
+   37  ls
+   38  cd workspece
+   39  cd workspece1
+   40  cd workspace
+   41  cd workspace1
+   42  ls
+   43  touch 1.java
+   44  echo "lineone">>1.java
+   45  cat 1.java
+   46  git add .
+   47  add ..
+   48  clear
+   49  cd ..
+   50  cd dir
+   51  clear
+   52  \pwd
+   53  mkdir dir
+   54  cat >fail
+   55  clear
+   56  ls
+   57  pwd
+   58  cd /home/manisha/
+   59  ls
+   60  cdv mystuff
+   61  cd  mystuff
+   62  ls
+   63  www.google.co
+   64  www.google.com
+   65  history
+   66  history > GANGA
+   67  ls
+   68  cd GANGA
+   69  cd ..
+   70  ls
+   71  cd ..
+   72  cd my stuff
+   73  cd mystuff
+   74  cd ~
+   75  cd mystuff
+   76  ls
+   77  cd ..
+   78  la
+   79  history
+   80  history > MyHistorY
